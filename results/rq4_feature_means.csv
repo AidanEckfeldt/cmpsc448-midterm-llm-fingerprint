@@ -1,0 +1,4 @@
+llm_family,word_count,char_count,avg_sentence_words,lexical_diversity,bullet_count,heading_count,code_fence_count
+Claude,344.093,1549.623,36.302,0.549,3.08,0.413,0.847
+GPT,488.367,1964.62,54.02,0.492,5.2,2.193,1.343
+Gemini,407.337,1756.18,35.3,0.562,7.483,0.683,0.907

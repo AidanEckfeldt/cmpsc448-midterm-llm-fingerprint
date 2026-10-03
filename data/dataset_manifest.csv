@@ -1,0 +1,4 @@
+family,model_name,general,code,math,total
+GPT,gpt-4o-2024-05-13,100,100,100,300
+Claude,claude-3-5-sonnet-20240620,100,100,100,300
+Gemini,gemini-1.5-pro-api-0514,100,100,100,300
